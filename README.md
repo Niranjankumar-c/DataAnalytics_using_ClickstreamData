@@ -10,4 +10,4 @@ Repository Contains
   - ClickStream_CaseStudy.pdf - Report of CaseStudy Process and final analysis
   
 ## License & CopyRight
-Copyright (c) 2018 Niranjan Kumar Licensed under the [MIT License](License)
+Copyright (c) 2018 Niranjan Kumar Licensed under the [MIT License](LICENSE)
